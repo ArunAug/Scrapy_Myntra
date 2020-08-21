@@ -1,5 +1,5 @@
 # myntra
-This is a Scrapy project to scrape product details from https://www.myntra.com/ppe-suit (Mynta category pages).
+This is a Scrapy project to scrape product details from https://www.myntra.com/ppe-suit (Myntra category pages).
 
 # Extracted data
 This project extracts sample product details from specific individual products.
